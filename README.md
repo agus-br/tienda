@@ -16,9 +16,9 @@
         * Thunder Client (Cliente de consumo de API's REST. Genera solicitudes HTTP y permite ver las respuestas)
         * ESLint
 ## Base de datos
-**Instalar servidor de bases de datos**: En el proyecto se utiliza MySql como servidor de bases de datos, por lo que es importante instalar el servidor y al menos el cliente de MySQL para ejecutar el script de la base de datos. [Descargar MySQL](https://dev.mysql.com/downloads/).
-**Script de base de datos**: El script de la base de datos se encuentra en `tienda\db\database.sql`, este script se debe ejecutar para que la conexión se complete pues contiene toda la información de prueba de la base de datos.
-**Configuración de credenciales y variables de conexión**: Una vez se halla instalado MySQL, se deben cambiar las variables de conexión en `tienda\backend\src\db.js` por las que apliquen para cada miembro. Esto es hasta que se monte el servidor remoto.
+1. **Instalar servidor de bases de datos**: En el proyecto se utiliza MySql como servidor de bases de datos, por lo que es importante instalar el servidor y al menos el cliente de MySQL para ejecutar el script de la base de datos. [Descargar MySQL](https://dev.mysql.com/downloads/).
+2. **Script de base de datos**: El script de la base de datos se encuentra en `tienda\db\database.sql`, este script se debe ejecutar para que la conexión se complete pues contiene toda la información de prueba de la base de datos.
+3. **Configuración de credenciales y variables de conexión**: Una vez se halla instalado MySQL, se deben cambiar las variables de conexión en `tienda\backend\src\db.js` por las que apliquen para cada miembro. Esto es hasta que se monte el servidor remoto.
 
 ## Dependencias
 **Instalar dependencias**: Una vez que hayas clonado el repositorio, ejecuta `npm install` en tu terminal en la ruta raíz de cada proyecto (frontend/ y backend/) para instalar todas las dependencias necesarias.
