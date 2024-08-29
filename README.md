@@ -2,7 +2,7 @@
 
 ## Ambiente de desarrollo
 
-1. **Clonar el repositorio**: Se sugiere tener instalado Git para poder usar su terminal y clonar el repositorio, así como subir tus contribuciones.
+1. **Clonar el repositorio**: Se sugiere tener instalado Git para poder usar su terminal y clonar el repositorio, así como subir tus contribuciones.[Descargar Git](https://git-scm.com/downloads)
 2. **Instalar Node.js**: Antes de comenzar a desarrollar, Node.js es una herramienta esencial que debes instalar.
     - Descarga o actualizar Node.js a la última versión desde el siguiente enlace: [Descargar Node.js](https://nodejs.org/en/download)
     - O puedes instalar la última versión utilizando Chocolatey ejecutando el siguiente comando en tu terminal: `choco install nodejs`.
@@ -24,17 +24,13 @@
 **Instalar dependencias**: Una vez que hayas clonado el repositorio, ejecuta `npm install` en tu terminal en la ruta raíz de cada proyecto (frontend/ y backend/) para instalar todas las dependencias necesarias.
 
 ## Uso Backend
-
 Después de instalar las dependencias, puedes comenzar a desarrollar ejecutando el siguiente comando en tu terminal en la raíz del proyecto `tienda\backend\`:
-
 -   -> `npm run dev`
     Esto iniciará la aplicación y podrás verla en tu navegador en la ruta por defecto: _localhost:4000_
     Puedes detener el servidor simplemente con: ctrl + c
 
 ## Uso Frontend
-
 Después de instalar las dependencias, puedes comenzar a desarrollar ejecutando el siguiente comando en tu terminal en la raíz del proyecto `tienda\frontend\`:
-
 -   -> `npm run dev`
     Esto iniciará la aplicación y podrás verla en tu navegador en la ruta por defecto: _localhost:5173_
     Puedes detener el servidor simplemente con: ctrl + c
