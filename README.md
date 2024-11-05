@@ -4,8 +4,8 @@
 
 1. **Clonar el repositorio**: Se sugiere tener instalado Git para poder usar su terminal y clonar el repositorio, así como subir tus contribuciones.[Descargar Git](https://git-scm.com/downloads)
 2. **Instalar Node.js**: Antes de comenzar a desarrollar, Node.js es una herramienta esencial que debes instalar.
-    - Descarga o actualizar Node.js a la última versión desde el siguiente enlace: [Descargar Node.js](https://nodejs.org/en/download)
-    - O puedes instalar la última versión utilizando Chocolatey ejecutando el siguiente comando en tu terminal: `choco install nodejs`.
+    - Descarga o actualizar Node.js a la versión 23.1.0 desde el siguiente enlace: [Descargar Node.js](https://nodejs.org/en/download)
+    - O puedes instalarlo utilizando Chocolatey ejecutando el siguiente comando en tu terminal: `choco install nodejs`.
     - Para instalar Chocolately: [Descargar Chocolately](https://chocolatey.org/install)
 3. **Entorno y utilidades**: Se sugiere instalar un editor de código y algunas extensiones para facilitar el proceso de desarrollo:
     - Visual Studio Code: Visual Studio Code es un editor de códido versátil que permite hacer muy fácil el proceso de desarrollo con una herramienta ligera y fácil de utilizar. Puedes desargarlo en el siguiente enlace: [Descargar VSCode](https://code.visualstudio.com/download).
